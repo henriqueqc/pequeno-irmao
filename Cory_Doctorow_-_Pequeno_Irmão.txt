@@ -1,0 +1,131 @@
+Little Brother - http://craphound.com/littlebrother
+
+Cory Doctorow
+
+doctorow@craphound.com
+
+Tradução por Henrique Camargo
+
+&&&
+
+LEIA ISTO PRIMEIRO
+
+Esse livro é distribuido sobre a liscença de Atribuição-Uso não-comercial-Compartilhamento pela mesma licença 3.0 Unported (CC BY-NC-SA 3.0). Isso significa que:
+
+Você tem a liberdade de:
+
+	* Compartilhar — copiar, distribuir e transmitir a obra.
+
+	* Remixar — criar obras derivadas.
+
+Sob as seguintes condições:
+
+	* Atribuição — Você deve creditar a obra da forma especificada pelo autor ou licenciante (mas não de maneira que sugira que estes concedem qualquer aval a você ou ao seu uso da obra).
+
+	* Uso não-comercial — Você não pode usar esta obra para fins comerciais.
+
+	* Compartilhamento pela mesma licença — Se você alterar, transformar ou criar em cima desta obra, você poderá distribuir a obra resultante apenas sob a mesma licença, ou sob uma licença similar à presente.
+
+Ficando claro que:
+
+	* Renúncia — Qualquer das condições acima pode ser renunciada se você obtiver permissão do titular dos direitos autorais.
+
+	* Domínio Público — Onde a obra ou qualquer de seus elementos estiver em domínio público sob o direito aplicável, esta condição não é, de maneira alguma, afetada pela licença.
+
+Outros Direitos — Os seguintes direitos não são, de maneira alguma, afetados pela licença:
+
+	* Limitações e exceções aos direitos autorais ou quaisquer usos livres aplicáveis;
+
+	* Os direitos morais do autor;
+
+	* Direitos que outras pessoas podem ter sobre a obra ou sobre a utilização da obra, tais como direitos de imagem ou privacidade.
+
+Aviso — Para qualquer reutilização ou distribuição, você deve deixar claro a terceiros os termos da licença a que se encontra submetida esta obra. A melhor maneira de fazer isso é com um link para http://craphound.com/littlebrother.
+
+Mais informações em: http://creativecommons.org/licenses/by-nc-sa/3.0/deed.pt_BR
+
+Veja o fime desse aquivo para a liscensa completa.
+
+&&&
+
+Capítulo 1
+
+[[Esse capítulo é dedicado a BakkaPhoenix Books em Toronto, Canada. Bakka é a livraria de fição científica mais velha do mundo, e ela me fez o mutante que sou hoje. Eu entrei nela pela primeira vez quando eu tinha 10 anos e pedi por recomendações. Tanya Huff (sim, *a* Tanya Huff, mas naquela época ela não era uma escritora famosa!) me levou até a sessão de usados e colocou em minhas mãos uma cópia de "Little Fuzzy" por H. Beam Piper, isso mudou minha vida para sempre. Quando eu tinha 18 anos, eu estava trabalhando na Bakka -- eu substitui a Tannya quando ela se retirou para escrever em tempo integral -- e aprendi lições de vida sobre como e porque as pessoas compram livros. Eu acho que todo escritor deveria trabalhar em uma livraria (e muitos escritores no passar dos anos trabalharam na Bakka! Para comemorar os 30 anos da loja, eles escreveram uma antologia de histórias escritas por escritores que trabalharam lá que incluiu trabalhos de Michelle Sagara (também conhecida como Michelle West), Tanya Huff, Nalo Hopkinson, Tara Tallan --e meus!)]]
+
+[[BakkaPhoenix Books: http://www.bakkaphoenixbooks.com/ 697 Queen Street West, Toronto ON Canada M6J1E6, +1 416 963 9993]]
+
+Eu sou um veterano do ensino médio na Cesar Chavez no bairro ensolarado Mission e isso me faz uma das pessoas mais vigiladas do mundo. Meu nome é Marcus Yallow, mas quando esta história começa, eu atendia por w1n5t0n. Pronuciado "Winston"
+
+*Não* pronunciado "dabliu-um-ene-cinco-te-zero-ene" -- a não ser que você seja um diretor perdido que está tão atrazado que você ainda chama a internet de {super-rodovia da informação}.
+
+Eu conheço uma destas pessoas perdidas, o seu nome é Fred Benson, um dos tres vice diretores na Cesar Chaves. Ele é uma {unha-encravada} de um ser humano. Mas se você vai ter um carcereiro, melhor um perdido, do que um que sabe o que está fazendo.
+
+"Marcus Yallow," ele disse nos alto-falantes numa sexta de manhã. Para começar, os alto-falantes já não são muito bons, e quando você combina isso com o murmurar habitual do Benson, você acaba com algo que mais parece alguém tendo dificuladades para digerir um burrito do que com um aviso da escola. No entanto os humanos são bons em destinguir os seus nomes do meio da confusão sonora -- esta no gene de sobrevivencia.
+
+Eu peguei minha mala e fechei meu laptop pela metade -- eu não queria perder meus downloads -- e me preparei para o inevitavel.
+
+"Compareça na sala do diretor imediatamente."
+
+Minha professora de estudos sociais, Senhorita Galvez, olhou de canto de olho para mim e eu olhei de canto de olho devolta para ela. O {diretor} estava sempre pegando no meu pé, só porque eu passo pelos firewals da escola como {vasilina}, engano o sitema de reconhecimento de caminhada, e destruo os chips dedo-duros que eles usam para nos rastrear. Mesmo assim, a profesora Galvez nunca me culpa por tudo isso (até porque, eu estou ajudando ela a acessar o webmail para que ela possa falar com o irmão que esta servindo no Iraque)
+
+Meu parceiro Darryl me deu um tapa nas costas enquanto eu passava por ele. Eu conheço o Darryl desde quando a gente usava fraldas e escapava da creche, e eu coloco e tiro ele de confusões des daquela época. Eu levantei meus braços na frente da cabeça como boxeador, sai da sala de Estudos Sociais e comcei minha cominhada {} até a diretoria.
+
+Eu estava na metade do caminho quando meu telefone tocou. Esse era outro não-não -- telefones são muy proibidos na escola Chavez -- mas porque isso me impediria? Eu me escondi no banheiro e me fechei na patente do meio (a patente do fundo é sempre a mais nojenta porque a maioria das pessoas vão direto nela esperando fugir da repulsa e do cheiro -- a {bolada} e a boa higiene estão no meio). Eu olhei meu telefone -- meu PC de casa tinha me mandado um email para avisar que tinha algo de novo no Harajuku Fun Madness, que por acaso é o jogo mais legal de todos os tempos.
+
+Eu sorri. Passar as sextas na escola era uma bosta mesmo e eu estava feliz que tinha uma um desculpa para fazer minha escapada.
+
+Eu andei tranquilo pelo resto do caminho até a sala do Benson e dei um tchauzinho enquando eu {entrava} pela porta.
+
+"Se não é o dabliu-um-ene-cinco-te-zero-ene," ele disse. Fredrick Benson -- CPF: 545032343, data de nascimento: 15 de agosto de 1962, nome de solteira da mãe: Di Bona, nascido em: Petaluma -- é muito mais alto que eu. Eu sou um baixinho de 1,73 enquanto ele tem 2 metros de altura, e a sua época de jogador de basquete na faculdade esta tão no passado que seus musculos do peito se tornaram caidos e parecem peitos de mulher que ficam terrivelmente mais aparentes nas camisas polo baratas que ele usa. Ele sempre faz cara que esta pronto para fazer uma enterrada com voce, e ele adora levantar sua voz para fazer efeito dramatico. As duas coisas começam a perder o efeito de tanto que ele usa.
+
+"É... desculpa, não." eu disse. "Eu nunca houvi falar desse seu R2D2 ai."
+
+"W1n5t0n," ele disse, soletrando novamente. Ele me deu uma olhada cabeluda esperando eu dobrar. Claro que esse era o meu apelido, e tem sido por anos. Era a identidade que eu usava quando eu postava em forums as minhas contribuições para a pesquisa no campo da segurança aplicada. Voce sabe, como por exemplo, escapar da escola e desbilitar o localizador no meu telefone. Mas ele não sabia que esse era o meu apelido. Somente um grupo pequeno de pessoas sabia, e eu confiava em todos eles até o fim dos tempos.
+
+"Hmmm, não esta caindo a ficha," eu disse. Eu fiz algumas coisas bem legais na escola usando esse apelido -- eu era muito orgulhoso do trabalho que eu tinha feito nos desabilitadores de chips dedo-duros -- e se ele consiguisse ligar as duas identidades eu teria problemas. Nunca ninguem na escola me chamava de w1n5t0n ou mesmo Windston. Nem mesmo os meus parceiros. Ou era Marcus ou nada.
+
+Benson se acomodou atraz de sua mesa enquanto batia nervoso seu anel de formado no {arquivo}. Ele fazia isso sempre que as coisas começavam a dar errado pra ele. Jogadores de poker chamam isso de tique -- algo que diz o que esta se passando na cabeça da outra pessoa. Eu conhecia os tiques do Benson decor e salteado.
+
+"Marcus eu espero que você saiba o quão sério isso é."
+
+"Eu saberei assim que você me explicar o que "isso" é, senhor." Eu sempre digo "senhor" para figuras de autoridade quando eu estou debochando delas. Esse é o meu tique.
+
+Ele balançou a cabeça para mim e olhou para baixo, outro tique. A qualquer momento, ele vai começar a berrar comigo. "Escuta aqui muleke! É hora de você se acostumar com o fato que nós sabemos o que você tem feito, e que nós não seremos tolerantes com isso. Você sera sortudo se não for expulso antes que essa reunião acabe. Você quer se formar?"
+
+"Senhor Benson, você ainda não explicou qual é o problema --"
+
+Ele bateu sua mão na mesa e apontou o dedo para mim. "O *problema*, senhor Yallow, é que você está involvido em conspiração criminal para subverter o sistema de segurança desta escola, e você tem fornecido medidas de circunvenção de segurança aos seus colegas estudantes. Você sabe que nós expulsamos a Graciella Uriarte semana passada por usar um dos seus dispositivos." Uriarte tinha sido falsamente acusada. Ela tinha comprado um {neutralizador de tadios} de uma loja especializada perto da rua 16 estação BART e ele disparou os {detetores} no corredor da escola. Não foi meu feito, mas eu senti por ela.
+
+"E você acha que eu estou envolvido nisso?"
+
+"Nós temos fontes confiaveis indicando que voce é o w1n5t0n" -- ele soletrou devolta e eu comecei a me perguntar se ele não tinha descoberto que o 1 era um I e o 5 um S. "Nós sabemos que esse w1n5t0n é responsavel pelo roubo das provas {finais} do ano passado." Isso não tinha sido eu mesmo mas foi um bom hack e eu me senti lisongeado ao escutar ele sendo atribuido a mim. "E portanto sujeito a alguns anos na cadeia a não ser que você copere comigo."
+
+"Você tem 'fontes confiaveis'? Eu gostaria de ve-las."
+
+Ele me olhou bravo. "Sua atitude não irá lhe ajudar."
+
+"Se existe evidencia, senhor, eu acho que você deveria ligar para a policia e passar para eles. Isso soa como algo muito sério, e eu não iria querer ficar no caminho de uma investigação própriamente executada pelas autoridades devidamente constituidas."
+
+"Você que que eu chame a policia."
+
+"E meus pais, eu acho. Isso seria bom."
+
+Nós nos encaramos atravez da mesa. Ele claramente esperava que eu dobrasse no segundo que ele largou a bomba em mim. Eu não dobro. Eu tenho uma manha para encarar pessoas como o Benson. Eu olho ligeiramente para a esquerda das suas cabeças e penso na letra de canções irlandesas antigas, aqueles que tem trezentos versos. Isso faz eu parecer perfeitamente integro e despreocupado.
+
+*E a asa estava no passaro e o passaro estava no ovo e o ovo estava no ninho e o ninho estava na folha e a folha estava no ramo e o ramo estava no galho e o galho estava no tronco e o tronco estava na arvore e a arvore estava no monte o monte no vale-oh!*
+
+"Você pode retornar para aula agora," ele disse. "Eu irei lhe chamar quando a policia estiver pronta para falar com você."
+
+"Você vai ligar para eles agora?"
+
+"O procedimento para ligar para a policia é complicado. Eu esperava que nós pudessemos resolver isso de forma facil e rapida, mas como você insiste --"
+
+"É que eu posso esperar enquanto você liga prar eles," eu disse. "Eu não me importo."
+
+Ele bateu o seu anel novamente e se preparou para a explosão.
+
+"*Vá!*" Ele berrou. "Saia da porcaria do meu escritório seu pequeno miseravel --"
+
+Eu sai, mantendo minha expresão neutra. Ele não ia ligar para os policiais. Se ele tivesse evidencia suficiente para ir até a policia ele teria ligado em primeiro lugar. Ele me odiava. Eu imagino que ele escutou alguns rumores e esperava me coagir a confirmar.
+
+Eu me movi pelo corredor leve e rapidamente, mantendo meus passos uniformes e calculados para as cameras de reconhecimento de caminhada. Elas haviam sido instaladas no ano anterior, e eu adorava elas
